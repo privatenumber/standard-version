@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [9.0.0](https://www.github.com/conventional-changelog/standard-version/compare/v8.0.2...v9.0.0) (2020-07-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* NodeJS@8 is no longer supported. (#612)
+
+### Build System
+
+* NodeJS@8 is no longer supported. ([#612](https://www.github.com/conventional-changelog/standard-version/issues/612)) ([05edef2](https://www.github.com/conventional-changelog/standard-version/commit/05edef2de79d8d4939a6e699ce0979ff8da12de9))
+
 ### [8.0.2](https://www.github.com/conventional-changelog/standard-version/compare/v8.0.1...v8.0.2) (2020-07-14)
 
 
